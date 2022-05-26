@@ -1,7 +1,7 @@
 # Dont-you-lecture-me-automation
 A module to automate making music with the dont you lecture me with your 30 dollar website
 
-I might update this later
+I might update this later idk
 
 
 # How to use:
