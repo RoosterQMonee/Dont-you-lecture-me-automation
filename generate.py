@@ -7,7 +7,6 @@ pattern = r"-[a-zA-Z0-9]*"
 args = re.findall(pattern, interpereter_args)
 
 generated_function = """
-
 def generate_{} (arg):
     output_file.write(f"{}@{}|")
 
