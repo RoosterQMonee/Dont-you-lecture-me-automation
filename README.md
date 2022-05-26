@@ -58,9 +58,6 @@ print("[ + ] Generating sequence file.")
 
 for y in amplitude:
     dat = round(y*50)
-    if abs(dat) < 5:
-        system.generate_no(0)
-        continue
 
     if dat == 0:
         system.generate_no(0)
